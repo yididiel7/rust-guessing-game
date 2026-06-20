@@ -5,4 +5,4 @@ edition = "2021"
 
 [dependencies]
 autocorrect = "2.11.1"
-rand = "0.8.5"
+rand = "0.8.6"
